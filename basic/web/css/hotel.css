@@ -1,0 +1,59 @@
+#body{
+    background-image: url("../images/login.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#login_here{
+    color: white;text-align: center;
+    margin-top: 0%;
+}
+#model_here{
+    color: white;text-align: center;
+    margin-top: -4%;
+}
+#contatiner{
+    width: 30%;border: groove 5px;
+    background-color: white;
+}
+.lbl_class{
+    font-size: 80%;
+    color: black;
+    font-weight: bold;
+}
+#create_account{
+    text-align: center;
+}
+#contatiner_signup{
+    width: 50%;border: groove 5px;
+    background-color: white;
+}
+#lbl_class{
+    text-align: center;
+    margin-left: 40%;
+}
+#dashboard{
+    background-image: url("../images/dashboard.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#tbl_background{
+    background-color: white;
+}
+#container_dashboard{
+    background-color: white;
+}
+.blocks{
+    border: solid 1px;
+    width: 30%;
+    height: 30%;
+    text-align: center;
+    cursor: pointer;
+    background-color: white;
+
+}
+.blocks a{
+    text-decoration: none;
+    color: black;
+    font-family: Constantia;
+    font-size: 30px;
+}
